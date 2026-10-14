@@ -1,0 +1,10 @@
+.build/
+.swiftpm/
+.DS_Store
+*.xcuserstate
+*.log
+DerivedData/
+games.json
+settings.json
+art/
+playback-cache/
