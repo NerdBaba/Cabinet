@@ -16,8 +16,6 @@
 
 Cabinet gathers installed games into one browsable shelf. Its interface uses SwiftUI and AppKit, with a native macOS sidebar, toolbar, search, settings, and appearance controls.
 
-![Cabinet app icon](assets/cabinet-icon.png)
-
 ## What it does
 
 - Finds Mac applications and games, installed Steam titles, Heroic library entries, and CrossOver launchers.
@@ -28,13 +26,13 @@ Cabinet gathers installed games into one browsable shelf. Its interface uses Swi
 - Uses Steam, Heroic, app, or shell launch routes, with a choice of what Cabinet does after a game starts.
 - Follows the system appearance or uses a chosen light or dark theme.
 
-## How the pieces fit
+## Screenshot
 
 <p align="center">
-  <img src="assets/library-flow.svg" alt="Cabinet library and launch flow" width="820">
+  <img src="assets/cabinet-library.jpg" alt="Cabinet running on macOS, showing the All Games library with game covers, source filters, and search." width="100%">
 </p>
 
-Library discovery reads local application and launcher metadata. Cabinet merges those entries into a local catalog, resolves poster artwork, and launches a selected game through its owning platform.
+This is a screenshot of Cabinet running on macOS. Library discovery reads local application and launcher metadata, then lets you browse and launch the entries it finds.
 
 ## Build
 
