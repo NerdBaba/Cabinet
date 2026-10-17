@@ -60,7 +60,3 @@ Cabinet keeps its game catalog, preferences, cover art, and prepared animation c
 ```
 
 The storage identifier preserves the existing Cabinet installation's library when updating the app.
-
-## Notes
-
-Cabinet is an independent Swift recreation for personal use. It is not affiliated with Glaze or the original Cartridges app. Game names, trademarks, and artwork belong to their respective owners. Inter font and WebP license notices are included in `Resources/` and `Vendor/WebP/`.
